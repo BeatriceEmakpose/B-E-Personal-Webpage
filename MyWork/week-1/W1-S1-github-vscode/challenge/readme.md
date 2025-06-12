@@ -15,4 +15,3 @@ You’ve learned how to create and commit to a new repository. Today’s challen
 - [Git Documentation: Adding Files](https://git-scm.com/docs/git-add)
 - [How to Track and Commit Changes in Git](https://www.atlassian.com/git/tutorials/saving-changes)
 - [Working with Git: Basic Commands](https://guides.github.com/introduction/git-handbook/#basic)
-cd 

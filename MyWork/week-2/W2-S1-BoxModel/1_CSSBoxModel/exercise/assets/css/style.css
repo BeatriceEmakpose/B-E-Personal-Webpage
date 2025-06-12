@@ -1,0 +1,18 @@
+section {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    border: 15px solid black;
+}
+img {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    /* Margin property real answer 20px */
+    margin:15px;
+    /* Padding property real answer 20px */
+    padding:10px;
+    /* Border property */ /* real answer: 9px*/
+    border: 6px solid darkblue;
+
+}
